@@ -30,3 +30,6 @@ This project uses a pre-trained BERT model to classify Arabic tweets into **Posi
 
 [CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment)
 
+## Data 
+https://www.kaggle.com/code/yasmeenhany/arabic-sentiment-analysis-using-arabic-bert
+
